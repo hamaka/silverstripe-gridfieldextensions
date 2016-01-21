@@ -19,7 +19,7 @@
 		"issues": "http://github.com/silverstripe-australia/silverstripe-gridfieldextensions/issues"
 	},
 	"require": {
-		"silverstripe/framework": "~3.1"
+		"silverstripe/framework": "dev-hamaka-stable"
 	},
 	"extra": {
 		"installer-name": "gridfieldextensions",
